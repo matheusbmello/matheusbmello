@@ -1,4 +1,4 @@
-# Olá eu sou o Matheus 😄
+# Olá, eu sou o Matheus 😄
 
 Estudante de Engenharia de Software na UnB. Seja bem-vindo ao meu perfil.
 
